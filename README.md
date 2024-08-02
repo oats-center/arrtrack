@@ -17,8 +17,6 @@ This repository contains the code developed for automating the creation and veri
 - Provides detailed segment-level work records.
 - Visualizes vehicle movements on repeated routes.
 - Enhances accuracy and granularity of work records.
-- Supports effective resource allocation and timely compensation for drivers.
-- Alleviates administrative burdens and aids in strategic planning.
 
 ## Usage
 Navigate to the workorder app folder then call
